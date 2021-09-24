@@ -1,0 +1,45 @@
+{
+  "name": "parallaxo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goinnovative/parallaxo.git"
+  },
+  "keywords": [
+    "Parallax",
+    "Library",
+    "Parallax",
+    "Js",
+    "Lightweight",
+    "Parallax",
+    "Easy",
+    "Parallax",
+    "Parallx",
+    "Video",
+    "Parallax",
+    "Slider",
+    "Parallax",
+    "without",
+    "Background-Image"
+  ],
+  "author": "Lukas Reusch",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/goinnovative/parallaxo/issues"
+  },
+  "homepage": "https://github.com/goinnovative/parallaxo#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.42.1"
+  }
+}
