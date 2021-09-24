@@ -10,5 +10,5 @@
   will-change: transform;
 }
 .parallax.initialized .parallax__inner {
-  transition: transform 2s cubic-bezier(0, 0, 0, 1);
+  transition: transform 0.2s cubic-bezier(0, 0, 0, 1);
 }

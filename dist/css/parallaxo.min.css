@@ -1,1 +1,1 @@
-.parallax,.parallax__inner{height:100%;left:0;position:absolute;top:0;width:100%;overflow:hidden}.parallax__inner{will-change:transform}.parallax.initialized .parallax__inner{transition:transform 2s cubic-bezier(0,0,0,1)}
+.parallax,.parallax__inner{height:100%;left:0;position:absolute;top:0;width:100%;overflow:hidden}.parallax__inner{will-change:transform}.parallax.initialized .parallax__inner{transition:transform .2s cubic-bezier(0,0,0,1)}
