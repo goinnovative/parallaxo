@@ -1,7 +1,9 @@
 {
-  "name": "parallaxo",
-  "version": "1.0.0",
+  "name": "@goinnovaitve/parallaxo",
+  "version": "1.0.1",
   "description": "",
+  "main": "src/js/parallaxo.js",
+  "bin": "src/js/parallaxo.js",
   "scripts": {
     "build": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
