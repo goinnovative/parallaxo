@@ -1,6 +1,3 @@
-$transition-duration: 0.2s;
-$transition: cubic-bezier(0,0,0,1);
-
 .parallax {
   &, &__inner {
     height: 100%;
@@ -13,9 +10,5 @@ $transition: cubic-bezier(0,0,0,1);
 
   &__inner {
     will-change: transform;
-  }
-
-  &.initialized &__inner {
-    transition: transform $transition-duration $transition;
   }
 }

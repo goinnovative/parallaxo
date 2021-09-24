@@ -9,6 +9,3 @@
 .parallax__inner {
   will-change: transform;
 }
-.parallax.initialized .parallax__inner {
-  transition: transform 0.2s cubic-bezier(0, 0, 0, 1);
-}
