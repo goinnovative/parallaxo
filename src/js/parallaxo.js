@@ -39,6 +39,9 @@ const initializeParallax = () => {
     // Run parallax to move it to init position
     runParallax( parallaxObject )
 
+    // Mark as initialized with delay to avoid init animation
+    setTimeout(() => element.classList.add('initialized'), 100)
+    
     return parallaxObject
   })
 }
