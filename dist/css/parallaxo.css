@@ -6,6 +6,3 @@
   width: 100%;
   overflow: hidden;
 }
-.parallax__inner {
-  will-change: transform;
-}
